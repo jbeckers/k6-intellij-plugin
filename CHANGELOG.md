@@ -2,6 +2,9 @@
 
 # k6 IntelliJ Plugin Changelog
 
+## [Unreleased]
+### Fixed
+
 ## [0.3.0]
 ### Added
 - Support relative script path (issue #3)
